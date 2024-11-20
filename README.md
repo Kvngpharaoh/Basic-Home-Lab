@@ -23,11 +23,11 @@ Create a NAT Network if you need internet access for the VMs.
 
    Step 2: Create Virtual Machines
    
-  = Install Kali Linux
+  - Install Kali Linux
    
-= Download Kali Linux ISO from Kali Linux Downloads.
+- Download Kali Linux ISO from Kali Linux Downloads.
 
-= Boot the VM from the ISO and install the system.
+- Boot the VM from the ISO and install the system.
 
 2.1 Ubuntu:
      
