@@ -61,7 +61,7 @@ networks, servers, websites, and devices.
 **2. Password Cracking:**
 
 Used to crack hashed or encrypted passwords by brute force or dictionary
-attacks.
+attacks. https://www.openwall.com/john/
 
 - **John the Ripper**: A fast password cracker.
 
